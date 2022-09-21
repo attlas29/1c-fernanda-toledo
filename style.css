@@ -1,3 +1,28 @@
+
+p {
+   color:red;
+   font-size: 30;
+}
+
+#imagem {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#link {
+   text-align: center;
+}
+
 p {
    color: red;
    font-size: 30;
@@ -7,7 +32,7 @@ p {
 h1 {
     color: blue;
     font-size: 50;
-    text-aling: center;
+    text-align: center;
 }
 
 h2 {
@@ -15,3 +40,20 @@ h2 {
     font-size: 40;
     text-align: right;
 }
+
+<ol class="lista"
+    <li>Scratch</li>
+    <li>JavaScript</li>
+    <li>HTML e CSS</li>
+
+
+
+
+
+
+
+
+
+
+
+
