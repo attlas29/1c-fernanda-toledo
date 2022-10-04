@@ -1,22 +1,26 @@
-
-p {
-   color:red;
+.lista {
    font-size: 30;
+   color:red;
 }
 
-#imagem {
-    text-align: center;
+.imagens {
+   text-align: center;
+   Background: black;
+{
+
+#destaque {
     border: 5px;
-    border-style: solid;
-    border-color: green;
+    border-style: deshed;
+    border-color: blue;
     border-top-left-radius: 500px;
     border-top-right-radius: 500px;
     border-bottom-left-radius: 500px;
     border-bottom-right-radius: 500px;
     padding-top: 30px;
     padding-bottom: 30px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background: yellow;
 }
 
 #link {
@@ -40,11 +44,6 @@ h2 {
     font-size: 40;
     text-align: right;
 }
-
-<ol class="lista"
-    <li>Scratch</li>
-    <li>JavaScript</li>
-    <li>HTML e CSS</li>
 
 
 
