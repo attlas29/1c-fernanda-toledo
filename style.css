@@ -1,4 +1,4 @@
-.cabecalho {
+.rodape {
     border-bottom-style: solid;
     background: greenyellow;
     margin-top: -8px;
@@ -7,7 +7,7 @@
     padding: 1px;
 }
 
-#cabecalho2 {
+#rodape2 {
     color: blue;
     text-aling: center;
 }
