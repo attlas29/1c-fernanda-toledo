@@ -1,7 +1,21 @@
-.rodape {
+.cabecalho {
     border-bottom-style: solid;
     background: greenyellow;
     margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 1px;
+}
+
+#cabecalho2 {
+    color: blue;
+    text-align: center;
+}
+
+.rodape {
+    border-top-style: solid;
+    background: greenyellow;
+    margin-bottom: -8px;
     margin-left: -8px;
     margin-right: -8px;
     padding: 1px;
@@ -19,8 +33,8 @@
 
 .imagens {
    text-align: center;
-   Background: black;
-{
+   Background: whitesmoke;
+}
 
 #destaque {
     border: 5px;
