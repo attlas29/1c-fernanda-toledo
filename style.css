@@ -36,6 +36,10 @@
    Background: whitesmoke;
 }
 
+#lateral {
+    float: rigth;
+}
+
 #destaque {
     border: 5px;
     border-style: deshed;
